@@ -12,6 +12,10 @@
 # Build settings
 markdown: kramdown
 
+
+
+exclude: ['README.md']
+
 port: 8080
 
 highlighter : rouge
