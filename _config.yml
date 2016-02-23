@@ -19,5 +19,3 @@ exclude: ['README.md']
 port: 8080
 
 highlighter : rouge
-
-highlighter: pygments
